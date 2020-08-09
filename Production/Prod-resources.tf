@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIA6N7UCHR4EO4YTLUK"
-  secret_key = "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"
+  access_key = "my-access-key"
+  secret_key = "my-secret-key"
 }
 
 # Create a VPC with mentioned CIDR.
